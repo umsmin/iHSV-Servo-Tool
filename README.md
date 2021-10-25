@@ -15,6 +15,7 @@ You will need Python3, PyQt5, PyQtGraph, PySerial, Numpy and MinimalModbus.
 
 ### Windows
 
+Have a look for the steps in the Wiki Page.
 You may install [Anaconda Python Environment](https://conda.io/docs/user-guide/install/index.html "Anaconda Website") (Choose the Python3-flavour!).
 
 After installing, you can install the other prerequisites using [conda](https://conda.io/docs/user-guide/tasks/manage-pkgs.html) and pip. Depending on your Anaconda-path, you will need to start the "Anaconda Prompt" with administrative privileges.

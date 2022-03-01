@@ -6,7 +6,7 @@ Python3-based tool to monitor and tune JMC iHSV servos.
 
 ## Installation
 
-For this have a look in the https://github.com/umsmin/iHSV-Servo-Tool/wiki
+For this have a look in the [Wiki](https://github.com/umsmin/iHSV-Servo-Tool/wiki)
 
 ## Prerequisites
 

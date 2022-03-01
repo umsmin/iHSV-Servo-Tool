@@ -4,6 +4,10 @@ Python3-based tool to monitor and tune JMC iHSV servos.
 
 ![alt text](screenshot.png "Screenshot")
 
+## Installation
+
+For this have a look in the https://github.com/umsmin/iHSV-Servo-Tool/wiki
+
 ## Prerequisites
 
 You will need Python3, PyQt5, PyQtGraph, PySerial, Numpy and MinimalModbus.
